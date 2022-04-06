@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyenvhung9420
 - 👀 I’m interested in mobile iOS Swift/ObjC and Flutter development 
-- 🌱 I’m currently learning German language
+- 🌱 I’m currently learning Kotlin language and Android
 - 💞️ I’m looking to collaborate on mobile development projects
 - 📫 Reach me via nguyenvhung@live.fr or +84 911 911 320
 
